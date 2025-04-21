@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\bin\Debug\net9.0\menorPilha.exe
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\bin\Debug\net9.0\menorPilha.deps.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\bin\Debug\net9.0\menorPilha.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\bin\Debug\net9.0\menorPilha.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\bin\Debug\net9.0\menorPilha.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\refint\menorPilha.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\menorPilha.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\menorPilha\obj\Debug\net9.0\ref\menorPilha.dll

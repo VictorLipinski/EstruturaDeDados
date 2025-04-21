@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\bin\Debug\net9.0\listaDinamica.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\bin\Debug\net9.0\listaDinamica.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\bin\Debug\net9.0\listaDinamica.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\bin\Debug\net9.0\listaDinamica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\bin\Debug\net9.0\listaDinamica.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\refint\listaDinamica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\listaDinamica.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaDinamica\obj\Debug\net9.0\ref\listaDinamica.dll

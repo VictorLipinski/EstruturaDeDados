@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\bin\Debug\net9.0\filaManual.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\bin\Debug\net9.0\filaManual.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\bin\Debug\net9.0\filaManual.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\bin\Debug\net9.0\filaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\bin\Debug\net9.0\filaManual.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\refint\filaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\filaManual.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaManual\obj\Debug\net9.0\ref\filaManual.dll

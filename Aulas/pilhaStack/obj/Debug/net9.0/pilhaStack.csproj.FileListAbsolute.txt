@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\bin\Debug\net9.0\pilhaStack.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\bin\Debug\net9.0\pilhaStack.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\bin\Debug\net9.0\pilhaStack.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\bin\Debug\net9.0\pilhaStack.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\bin\Debug\net9.0\pilhaStack.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\refint\pilhaStack.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\pilhaStack.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaStack\obj\Debug\net9.0\ref\pilhaStack.dll

@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\bin\Debug\net9.0\4.exe
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\bin\Debug\net9.0\4.deps.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\bin\Debug\net9.0\4.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\bin\Debug\net9.0\4.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\bin\Debug\net9.0\4.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\refint\4.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\4.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\matrizes\4\obj\Debug\net9.0\ref\4.dll

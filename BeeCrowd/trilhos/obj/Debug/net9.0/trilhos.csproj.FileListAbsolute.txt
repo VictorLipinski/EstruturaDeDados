@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\bin\Debug\net9.0\trilhos.exe
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\bin\Debug\net9.0\trilhos.deps.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\bin\Debug\net9.0\trilhos.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\bin\Debug\net9.0\trilhos.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\bin\Debug\net9.0\trilhos.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\refint\trilhos.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\trilhos.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\trilhos\obj\Debug\net9.0\ref\trilhos.dll

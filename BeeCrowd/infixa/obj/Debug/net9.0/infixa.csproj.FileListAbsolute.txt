@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\bin\Debug\net9.0\infixa.exe
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\bin\Debug\net9.0\infixa.deps.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\bin\Debug\net9.0\infixa.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\bin\Debug\net9.0\infixa.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\bin\Debug\net9.0\infixa.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\refint\infixa.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\infixa.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\infixa\obj\Debug\net9.0\ref\infixa.dll

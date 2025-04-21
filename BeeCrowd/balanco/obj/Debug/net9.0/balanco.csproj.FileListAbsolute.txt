@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\bin\Debug\net9.0\balanco.exe
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\bin\Debug\net9.0\balanco.deps.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\bin\Debug\net9.0\balanco.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\bin\Debug\net9.0\balanco.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\bin\Debug\net9.0\balanco.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\refint\balanco.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\balanco.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\balanco\obj\Debug\net9.0\ref\balanco.dll

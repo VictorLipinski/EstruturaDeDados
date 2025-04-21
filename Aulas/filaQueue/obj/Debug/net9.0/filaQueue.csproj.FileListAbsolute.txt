@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\bin\Debug\net9.0\filaQueue.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\bin\Debug\net9.0\filaQueue.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\bin\Debug\net9.0\filaQueue.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\bin\Debug\net9.0\filaQueue.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\bin\Debug\net9.0\filaQueue.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\refint\filaQueue.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\filaQueue.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\filaQueue\obj\Debug\net9.0\ref\filaQueue.dll

@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\bin\Debug\net9.0\diamantes.exe
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\bin\Debug\net9.0\diamantes.deps.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\bin\Debug\net9.0\diamantes.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\bin\Debug\net9.0\diamantes.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\bin\Debug\net9.0\diamantes.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\refint\diamantes.dll
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.pdb
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\diamantes.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\BeeCrowd\diamantes\obj\Debug\net9.0\ref\diamantes.dll

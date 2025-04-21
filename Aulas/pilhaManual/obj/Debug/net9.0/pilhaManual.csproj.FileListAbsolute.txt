@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\bin\Debug\net9.0\pilhaManual.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\bin\Debug\net9.0\pilhaManual.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\bin\Debug\net9.0\pilhaManual.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\bin\Debug\net9.0\pilhaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\bin\Debug\net9.0\pilhaManual.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\refint\pilhaManual.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\pilhaManual.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\pilhaManual\obj\Debug\net9.0\ref\pilhaManual.dll

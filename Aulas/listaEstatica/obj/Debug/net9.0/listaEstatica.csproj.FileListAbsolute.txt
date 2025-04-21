@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\bin\Debug\net9.0\listaEstatica.exe
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\bin\Debug\net9.0\listaEstatica.deps.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\bin\Debug\net9.0\listaEstatica.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\bin\Debug\net9.0\listaEstatica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\bin\Debug\net9.0\listaEstatica.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\refint\listaEstatica.dll
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.pdb
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\listaEstatica.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Aulas\listaEstatica\obj\Debug\net9.0\ref\listaEstatica.dll

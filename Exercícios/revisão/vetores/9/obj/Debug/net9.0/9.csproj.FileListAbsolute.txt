@@ -1,0 +1,14 @@
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\bin\Debug\net9.0\9.exe
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\bin\Debug\net9.0\9.deps.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\bin\Debug\net9.0\9.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\bin\Debug\net9.0\9.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\bin\Debug\net9.0\9.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\refint\9.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\9.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\revisão\vetores\9\obj\Debug\net9.0\ref\9.dll
