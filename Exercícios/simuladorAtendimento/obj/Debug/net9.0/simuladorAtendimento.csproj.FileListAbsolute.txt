@@ -1,0 +1,15 @@
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\bin\Debug\net9.0\simuladorAtendimento.exe
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\bin\Debug\net9.0\simuladorAtendimento.deps.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\bin\Debug\net9.0\simuladorAtendimento.runtimeconfig.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\bin\Debug\net9.0\simuladorAtendimento.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\bin\Debug\net9.0\simuladorAtendimento.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.AssemblyInfoInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.AssemblyInfo.cs
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.csproj.CoreCompileInputs.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.sourcelink.json
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\refint\simuladorAtendimento.dll
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.pdb
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\simuladorAtendimento.genruntimeconfig.cache
+D:\Victor Hugo\EstruturaDeDados\Exercícios\simuladorAtendimento\obj\Debug\net9.0\ref\simuladorAtendimento.dll
